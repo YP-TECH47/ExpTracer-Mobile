@@ -199,11 +199,6 @@ class _NewExpensestate extends State<NewExpense> {
           //     query: catagorydataref,
           //     itemBuilder: (context, snapshot, animation, index) {
           //       final data = snapshot.value;
-          //       print(
-          //           " jklhbfkegfweughweughweghwejkghwejkghwjkhgwjkgghjkghwejkghjkweghwejkhgwe");
-
-          //       print(data);
-
           //       final categoryName =
           //           (data as List<dynamic>).map((e) => e.toString()).toList();
           //       return DropdownButton<String>(
